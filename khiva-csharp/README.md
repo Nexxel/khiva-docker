@@ -14,8 +14,8 @@ docker build --rm -t shapelets/khiva-csharp:0.2.3 .
 Before pushing the image, please ensure you entered your Docker hub credentials with the command: `docker login`
 
 ```
-docker tag shapelets/khiva-csharp:0.2.2 shapelets/khiva-csharp:latest
-docker push shapelets/khiva-csharp:0.2.2
+docker tag shapelets/khiva-csharp:0.2.3 shapelets/khiva-csharp:latest
+docker push shapelets/khiva-csharp:0.2.3
 docker push shapelets/khiva-csharp:latest
 ```
 
