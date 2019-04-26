@@ -6,7 +6,7 @@ Dockerfile with the Khiva library and its C# binding installed.
 ## Building image
 
 ```
-docker build --rm -t shapelets/khiva-csharp:0.2.2 .
+docker build --rm -t shapelets/khiva-csharp:0.2.3 .
 ```
 
 ## Pushing the image
@@ -28,5 +28,5 @@ docker run --rm -ti shapelets/khiva-csharp
 
 ### Support and Contact Info
 
-* [Gitter](https://gitter.im/shapelets-io/khiva?source=orgpage)
+* [Gitter](https://gitter.im/shapelets-io/khiva-csharp?source=orgpage)
 * Email: <mailto:dev@shapelets.io>
